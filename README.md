@@ -9,8 +9,8 @@ This document presents a comprehensive overview of the activities, methodologies
 ## Content
 
 1. [General Architecture Diagram](#1-general-architecture)
-2. [Database](#2-database) (Repo: https://github.com/mongodb/mongo)
-3. [SSO (Authentication)](#3-sso-authentication)(Repo: https://github.com/keycloak/keycloak)
+2. [Database](#2-database) 
+3. [SSO (Authentication)](#3-sso-authentication)
 4. [Backend (API)](#4-backend-api)
 5. [Frontend](#5-frontend)
 
@@ -28,6 +28,7 @@ This diagram describes the four main components for running the PPR application 
 ---
 
 ## 2. Database
+https://github.com/mongodb/mongo
 
 ### MongoDB Quick Install Guide
 
@@ -47,6 +48,7 @@ docker run -d \
 ## 3. SSO (Authentication)
 
 ### Keycloak Setup
+https://github.com/keycloak/keycloak
 
 The application requires a properly configured Keycloak server for authentication. Below is the required setup.
 
