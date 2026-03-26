@@ -115,6 +115,7 @@ KEYCLOAK_REALM_PUBLIC_KEY="<your-realm-public-key>"
 ---
 
 ## 4. Backend (API)
+https://github.com/LACNetNetworks/PPR/tree/main/ppr-backend
 
 A robust NestJS backend API for the PPR (Programa de Participación Regional) platform, enabling project funding management, evidence tracking, and blockchain integration for transparency.
 
@@ -303,6 +304,7 @@ docker-compose up -d
 ---
 
 ## 5. Frontend
+https://github.com/LACNetNetworks/PPR/tree/main/ppr-frontend
 
 A modern Next.js 15 frontend for the PPR (Programa de Participación Regional) platform, providing role-based dashboards for project funding management, evidence tracking, and contribution monitoring.
 
