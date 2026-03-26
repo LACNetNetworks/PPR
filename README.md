@@ -19,7 +19,7 @@ This document presents a comprehensive overview of the activities, methodologies
 
 ## 1. General Architecture
 
-![Alt text](./img/arquitectura.png)
+![Arquitectura](./img/arquitectura.png)
 
 ### Main Components
 
