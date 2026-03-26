@@ -9,11 +9,11 @@ This document presents a comprehensive overview of the activities, methodologies
 ## Content
 
 1. [General Architecture Diagram](#1-general-architecture)
-2. [Database](#2-database)
-3. [SSO (Authentication)](#3-sso-authentication)
+2. [Database](#2-database) (Repo: https://github.com/mongodb/mongo)
+3. [SSO (Authentication)](#3-sso-authentication)(Repo: https://github.com/keycloak/keycloak)
 4. [Backend (API)](#4-backend-api)
 5. [Frontend](#5-frontend)
-6. [Platform Screen Captures](#6-screen-captures)
+
 
 ---
 
